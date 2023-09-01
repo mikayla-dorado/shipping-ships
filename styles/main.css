@@ -1,0 +1,44 @@
+.body {
+    background-color: rgb(103, 148, 199);
+    
+}
+
+.detail--column {
+    border: dotted;
+    border-color: rgb(147, 180, 205);
+}
+
+.ship {
+    border: 5px solid rgb(103, 148, 199);
+    background-color: rgb(188, 207, 222);
+    width: 1200px;
+    padding-bottom: 5px;
+    display: flex;
+    height: 40px;
+    font-family: cursive;
+}
+
+.ships {
+    
+    padding-bottom: 23px;
+}
+
+.hauler {
+    border: 5px solid rgb(103, 148, 199);
+    background-color: rgb(188, 207, 222);
+    width: 1200px;
+    padding-bottom: 5px;
+    display: flex;
+    height: 40px;
+    font-family: cursive;
+}
+
+.dock {
+    border: 5px solid rgb(103, 148, 199);
+    background-color: rgb(188, 207, 222);
+    width: 1200px;
+    padding-bottom: 5px;
+    display: flex;
+    height: 40px;
+    font-family: cursive;
+}
